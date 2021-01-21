@@ -1,0 +1,10 @@
+Webpack (imports/exports)
+ - transpiler Babel
+ - less
+ - eslint
+ - 2 modes:
+    dev(dev server, sourceMap, eslint, Not Minified JS & CSS)
+    prod(Minified Code)
+
+Git
+
